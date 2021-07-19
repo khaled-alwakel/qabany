@@ -26,6 +26,10 @@ h1{
     border-radius: 10px;
 
 }
+p{
+    font-size:18px;
+    font-weight:bold;
+}
 img{
     width: 150px;
     height: 150px;
