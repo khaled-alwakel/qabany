@@ -51,7 +51,8 @@ img{
     text-align: center;
     color: #fff;
     transition: 0.3s;
-    border: 2px solid #000
+    border: 2px solid #000;
+    border-raduis:10px;
 }
 .container .box:hover{
     background-color: #d3688b;
